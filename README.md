@@ -1,4 +1,4 @@
-# Dyno CLone [all in one bot]
+# ktb bot
 A Discord Moderation Bot With Different Features, mostly made for Moderating a Discord Server 
 
 # Features
@@ -17,8 +17,3 @@ A Discord Moderation Bot With Different Features, mostly made for Moderating a D
 ## Self-Hosting 
 - Fork the project in your replit
 - Run the Replit
-
-
-Support Server [For any Help]
--
- https://discord.gg/btngw4vaTM
